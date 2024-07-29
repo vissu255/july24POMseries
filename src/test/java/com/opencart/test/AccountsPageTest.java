@@ -7,7 +7,6 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.beust.ah.A;
 import com.opencart.pages.SearchPage;
 
 public class AccountsPageTest extends BaseTest {
